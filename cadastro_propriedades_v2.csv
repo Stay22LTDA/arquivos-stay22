@@ -1,0 +1,4 @@
+id_propriedade;nome_propriedade;tem_wifi(sim/nao);wifi_nome_rede;wifi_senha;endereco_completo;horario_checkin;horario_checkout;regras_da_casa;contato_recepcao_1;contato_recepcao_2;contato_recepcao_3
+808;Diamond 808;sim ;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;;
+806;Diamond 806;sim ;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;;
+805;Diamond 805;sim ;Apto 808_Ext ;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;;
