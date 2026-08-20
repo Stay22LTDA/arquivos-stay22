@@ -1,11 +1,12 @@
 id_propriedade;nome_propriedade;tem_wifi(sim/nao);wifi_nome_rede;wifi_senha;endereco_completo;horario_checkin;horario_checkout;regras_da_casa;contato_recepcao_1;contato_recepcao_2;contato_recepcao_3
-808;Diamond 808;sim;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;;
-806;Diamond 806;sim;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;;
-805;Diamond 805;sim;Apto 808_Ext;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;;
-305;Diamond 305;sim;Diamond 305;Raimax@1975;Rua XV de Novembro 290;14:00h;12:00h;;5535988464111;;
-702;Diamond 702;sim;eduardo_702;eduardo702;Rua XV de Novembro 291;14:00h;12:00h;;5535988464111;;
-802;Diamond 802;sim;EDSONWS;20202021;Rua XV de Novembro 292;14:00h;12:00h;;5535988464111;;
-902;Diamond 902;sim;902 - 905;33321649;Rua XV de Novembro 293;14:00h;12:00h;;5535988464111;;
+808;Diamond 808;sim;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;
+806;Diamond 806;sim;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;
+805;Diamond 805;sim;Apto 808_Ext;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;
+305;Diamond 305;sim;Diamond 305;Raimax@1975;Rua XV de Novembro 290;14:00h;12:00h;;5535988464111;553533311495;
+702;Diamond 702;sim;eduardo_702;eduardo702;Rua XV de Novembro 291;14:00h;12:00h;;5535988464111;553533311495;
+802;Diamond 802;sim;EDSONWS;20202021;Rua XV de Novembro 292;14:00h;12:00h;;5535988464111;553533311495;
+902;Diamond 902;sim;902 - 905;33321649;Rua XV de Novembro 293;14:00h;12:00h;;5535988464111;553533311495;
+905;Diamond 905;sim;902 - 905;33321649;Rua XV de Novembro 293;14:00h;12:00h;;5535988464111;553533311495;
 307;Bela Vita 307;sim;307;Rei110877;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111
 205;Bela Vita 205;sim;Apto 206;33321649;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111
 209;Bela Vita 209;sim;Apto 206;33321649;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111
