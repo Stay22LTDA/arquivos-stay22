@@ -1,20 +1,20 @@
-id_propriedade;nome_propriedade;tem_wifi(sim/nao);wifi_nome_rede;wifi_senha;endereco_completo;horario_checkin;horario_checkout;regras_da_casa;contato_recepcao_1;contato_recepcao_2;contato_recepcao_3
-808;Diamond 808;sim;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;
-806;Diamond 806;sim;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;
-805;Diamond 805;sim;Apto 808_Ext;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;
-305;Diamond 305;sim;Diamond 305;Raimax@1975;Rua XV de Novembro 290;14:00h;12:00h;;5535988464111;553533311495;
-702;Diamond 702;sim;eduardo_702;eduardo702;Rua XV de Novembro 291;14:00h;12:00h;;5535988464111;553533311495;
-802;Diamond 802;sim;EDSONWS;20202021;Rua XV de Novembro 292;14:00h;12:00h;;5535988464111;553533311495;
-902;Diamond 902;sim;902 - 905;33321649;Rua XV de Novembro 293;14:00h;12:00h;;5535988464111;553533311495;
-905;Diamond 905;sim;902 - 905;33321649;Rua XV de Novembro 293;14:00h;12:00h;;5535988464111;553533311495;
-307;Bela Vita 307;sim;307;Rei110877;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111
-205;Bela Vita 205;sim;Apto 206;33321649;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111
-209;Bela Vita 209;sim;Apto 206;33321649;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111
-206;Bela Vita 206;sim;Apto 206;33321649;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111
-804;JK 804;sim;Apto 804;33321649;Bastista Luzardo 725;14:00h;12:00h;;5535988464111;5535998537410;5535998097883
-702;JK 702;sim;702;33321649;Bastista Luzardo 725;14:00h;12:00h;;5535988464111;5535998537410;5535998097883
-203;João Lage 203;sim;Ernane_João_Lage;12345678@;Rua Comendador Costa 459;14:00h;12:00h;;5535988464111;5535997595245;
-402;Sagrado Coração 402;não;;;Rua Comendador Costa 731;14:00h;12:00h;;5535988464111;5535992708884;
-105;Parque das Águas 105;sim;Parque 1;crpa0001;Rua Comendador Costa 505;13:00h;11:00h;;5535988464111;5535998219190;
-705;Parque das Águas 705;não;;;Rua Comendador Costa 505;13:00h;11:00h;;5535988464111;5535998219190;
-604;Del Rey;não;;;Rua Antônio Junqueira de Souza 615;14:00h;12:00h;;5535988464111;5535991259993;5535991148755
+id_propriedade;nome_propriedade;tem_wifi(sim/nao);wifi_nome_rede;wifi_senha;endereco_completo;horario_checkin;horario_checkout;regras_da_casa;contato_recepcao_1;contato_recepcao_2;contato_recepcao_3;foto_url;instrucoes_acesso;lugares_proximos
+808;Diamond 808;sim;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;;https://scarva.stays.net/image/6900fdbe141a096411f84244;;
+806;Diamond 806;sim;Apto 808;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;;https://scarva.stays.net/image/69b2ad4dc4c372437bdad3c2;;
+805;Diamond 805;sim;Apto 808_Ext;33321649;Rua XV de Novembro 289;14:00h;12:00h;;5535988464111;553533311495;;https://scarva.stays.net/image/69502f2691cbaa62b63e6ecd;;
+305;Diamond 305;sim;Diamond 305;Raimax@1975;Rua XV de Novembro 290;14:00h;12:00h;;5535988464111;553533311495;;https://scarva.stays.net/image/6a2c60fbc08a96ffe327e47d;;
+702;Diamond 702;sim;eduardo_702;eduardo702;Rua XV de Novembro 291;14:00h;12:00h;;5535988464111;553533311495;;https://scarva.stays.net/image/69b2e82e5332df9d943f56ec;;
+802;Diamond 802;sim;EDSONWS;20202021;Rua XV de Novembro 292;14:00h;12:00h;;5535988464111;553533311495;;https://scarva.stays.net/image/69b2e82e5332df9d943f56ec;;
+902;Diamond 902;sim;902 - 905;33321649;Rua XV de Novembro 293;14:00h;12:00h;;5535988464111;553533311495;;https://scarva.stays.net/image/6862e0dab1fc59df2c8f5c9a;;
+905;Diamond 905;sim;902 - 905;33321649;Rua XV de Novembro 293;14:00h;12:00h;;5535988464111;553533311495;;https://scarva.stays.net/image/69b2ad4dc4c372437bdad3c2;;
+307;Bela Vita 307;sim;307;Rei110877;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111;https://scarva.stays.net/image/6a3999d1c0ff2dfd34cb8d90;;
+205;Bela Vita 205;sim;Apto 206;33321649;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111;https://scarva.stays.net/image/6a39bffd2e0172616ef8c223;;
+209;Bela Vita 209;sim;Apto 206;33321649;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111;https://scarva.stays.net/image/690243a0dcfd01c6972e2deb;;
+206;Bela Vita 206;sim;Apto 206;33321649;Rua Paul Harris 55;15:00h;13:00h;;5535988862263;5535992293822;5535988464111;https://scarva.stays.net/image/68adfa62e85fcb10111402f0;;
+804;JK 804;sim;Apto 804;33321649;Bastista Luzardo 725;14:00h;12:00h;;5535988464111;5535998537410;5535998097883;https://scarva.stays.net/image/6a14d23a9c4c8c094bd073af;;
+702;JK 702;sim;702;33321649;Bastista Luzardo 725;14:00h;12:00h;;5535988464111;5535998537410;5535998097883;https://scarva.stays.net/image/6a0e1420ed7725cbbbf64eb7;;
+203;João Lage 203;sim;Ernane_João_Lage;12345678@;Rua Comendador Costa 459;14:00h;12:00h;;5535988464111;5535997595245;;https://scarva.stays.net/image/698b9ac62ec8cd16e34b562a;;
+402;Sagrado Coração 402;não;;;Rua Comendador Costa 731;14:00h;12:00h;;5535988464111;5535992708884;;https://scarva.stays.net/image/6997699456cdb00e099560f4;;
+105;Parque das Águas 105;sim;Parque 1;crpa0001;Rua Comendador Costa 505;13:00h;11:00h;;5535988464111;5535998219190;;https://scarva.stays.net/image/685c91e0722768bec7f46188;;
+705;Parque das Águas 705;não;;;Rua Comendador Costa 505;13:00h;11:00h;;5535988464111;5535998219190;;https://scarva.stays.net/image/68af53f86e5292edb3b3193e;;
+604;Del Rey;não;;;Rua Antônio Junqueira de Souza 615;14:00h;12:00h;;5535988464111;5535991259993;5535991148755;https://scarva.stays.net/image/689be3b8a0c885bbd22e97b8;;
