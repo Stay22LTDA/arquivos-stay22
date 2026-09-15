@@ -1004,5 +1004,14 @@
     "802|ezequiel jeremias da silva": "2026-09-15T20:10:45.757Z",
     "702|gabriella vieira": "2026-09-15T21:52:18.017Z"
   },
-  "checkoutsMonitorados": {}
+  "checkoutsMonitorados": {
+    "6aa9d09db6d8d170c42d0a68": {
+      "unidade": {
+        "codigo": "OS09J",
+        "unidade": "420 - ON IMARÉS",
+        "checkOutDate": "2026-09-17"
+      },
+      "atualizadoEm": "2026-09-15T23:11:37.303Z"
+    }
+  }
 }
