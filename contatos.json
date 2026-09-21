@@ -1162,15 +1162,5 @@
     "806|silvio cesar siqueira de oliveira oliveira": "2026-09-19T12:07:37.717Z",
     "203|mario caio alves braga": "2026-09-19T22:19:15.458Z"
   },
-  "checkoutsMonitorados": {
-    "6aac66fe3d9b50e98f15e484": {
-      "unidade": {
-        "codigo": "OU03J",
-        "unidade": "420 - ON IMARÉS",
-        "checkOutDate": "2026-09-20"
-      },
-      "atualizadoEm": "2026-09-17T22:31:54.312Z",
-      "checkOutDate": "2026-09-20"
-    }
-  }
+  "checkoutsMonitorados": {}
 }
