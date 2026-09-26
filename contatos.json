@@ -1371,15 +1371,5 @@
     "205|ricardo antunes dias": "2026-09-25T13:08:05.632Z",
     "206|ricardo antunes dias": "2026-09-25T13:08:12.077Z"
   },
-  "checkoutsMonitorados": {
-    "6ab46943b933bc5da7e96e6a": {
-      "unidade": {
-        "codigo": "PA02J",
-        "unidade": "420 - ON IMARÉS",
-        "checkOutDate": "2026-09-25"
-      },
-      "atualizadoEm": "2026-09-24T00:14:34.182Z",
-      "checkOutDate": "2026-09-25"
-    }
-  }
+  "checkoutsMonitorados": {}
 }
