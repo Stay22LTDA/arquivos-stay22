@@ -1690,5 +1690,14 @@
     "905|barbara temponi": "2026-10-11T12:18:01.050Z",
     "902|fabio krieger": "2026-10-11T16:03:03.454Z"
   },
-  "checkoutsMonitorados": {}
+  "checkoutsMonitorados": {
+    "6acd70778b538afae47edced": {
+      "unidade": {
+        "codigo": "PT02J",
+        "unidade": "217 - ON PAULISTA",
+        "checkOutDate": "2026-10-16"
+      },
+      "atualizadoEm": "2026-10-12T23:42:52.892Z"
+    }
+  }
 }
