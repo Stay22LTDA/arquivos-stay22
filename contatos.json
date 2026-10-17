@@ -1864,15 +1864,6 @@
     "702|leandro klarge carlos cunha": "2026-10-16T20:37:42.647Z"
   },
   "checkoutsMonitorados": {
-    "6acd70778b538afae47edced": {
-      "unidade": {
-        "codigo": "PT02J",
-        "unidade": "217 - ON PAULISTA",
-        "checkOutDate": "2026-10-16"
-      },
-      "atualizadoEm": "2026-10-12T23:49:37.051Z",
-      "checkOutDate": "2026-10-16"
-    },
     "6ad203fdd8c713e0e5b6ed77": {
       "unidade": {
         "codigo": "PX07J",
