@@ -1936,6 +1936,14 @@
       },
       "atualizadoEm": "2026-10-16T11:02:58.998Z",
       "checkOutDate": "2026-10-18"
+    },
+    "6ad53d975868db274cf4afa4": {
+      "unidade": {
+        "codigo": "QA02J",
+        "unidade": "217 - ON PAULISTA",
+        "checkOutDate": "2026-11-01"
+      },
+      "atualizadoEm": "2026-10-18T21:44:27.968Z"
     }
   }
 }
