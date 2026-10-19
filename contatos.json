@@ -1935,15 +1935,6 @@
     "808|thiago do amaral trindade": "2026-10-18T18:13:25.180Z"
   },
   "checkoutsMonitorados": {
-    "6ad203fdd8c713e0e5b6ed77": {
-      "unidade": {
-        "codigo": "PX07J",
-        "unidade": "420 - ON IMARÉS",
-        "checkOutDate": "2026-10-18"
-      },
-      "atualizadoEm": "2026-10-16T11:02:58.998Z",
-      "checkOutDate": "2026-10-18"
-    },
     "6ad53d975868db274cf4afa4": {
       "unidade": {
         "codigo": "QA02J",
