@@ -2035,6 +2035,14 @@
       },
       "atualizadoEm": "2026-10-20T03:34:40.412Z",
       "checkOutDate": "2026-10-23"
+    },
+    "6adb7d25a772c2342d47b83c": {
+      "unidade": {
+        "codigo": "QK01J",
+        "unidade": "420 - ON IMARÉS",
+        "checkOutDate": "2026-11-01"
+      },
+      "atualizadoEm": "2026-10-23T15:29:03.181Z"
     }
   }
 }
