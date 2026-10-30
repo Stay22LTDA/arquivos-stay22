@@ -2204,6 +2204,14 @@
       },
       "atualizadoEm": "2026-10-23T15:35:53.365Z",
       "checkOutDate": "2026-11-01"
+    },
+    "6ae459cf31643ef592b56d25": {
+      "unidade": {
+        "codigo": "QR01J",
+        "unidade": "217 - ON PAULISTA",
+        "checkOutDate": "2026-11-06"
+      },
+      "atualizadoEm": "2026-10-30T08:48:21.270Z"
     }
   }
 }
