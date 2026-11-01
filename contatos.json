@@ -2055,6 +2055,13 @@
       "checkInDate": "2026-10-30",
       "checkOutDate": "2026-11-01",
       "atualizadoEm": "2026-10-30T17:27:25.363Z"
+    },
+    "5531985530000": {
+      "nomeHospede": "Pedro Barroso",
+      "unidade": "805 - Diamond",
+      "checkInDate": "2026-11-01",
+      "checkOutDate": "2026-11-02",
+      "atualizadoEm": "2026-11-01T16:56:59.038Z"
     }
   },
   "cancelamentos": {
