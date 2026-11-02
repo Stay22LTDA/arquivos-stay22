@@ -2285,24 +2285,6 @@
     "804|gisele das gracas maciel": "2026-11-01T20:50:03.427Z"
   },
   "checkoutsMonitorados": {
-    "6ad53d975868db274cf4afa4": {
-      "unidade": {
-        "codigo": "QA02J",
-        "unidade": "217 - ON PAULISTA",
-        "checkOutDate": "2026-11-01"
-      },
-      "atualizadoEm": "2026-10-18T21:47:59.774Z",
-      "checkOutDate": "2026-11-01"
-    },
-    "6adb7d25a772c2342d47b83c": {
-      "unidade": {
-        "codigo": "QK01J",
-        "unidade": "420 - ON IMARÉS",
-        "checkOutDate": "2026-11-01"
-      },
-      "atualizadoEm": "2026-10-23T15:35:53.365Z",
-      "checkOutDate": "2026-11-01"
-    },
     "6ae459cf31643ef592b56d25": {
       "unidade": {
         "codigo": "QR01J",
