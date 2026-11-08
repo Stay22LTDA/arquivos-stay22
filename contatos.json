@@ -2394,15 +2394,6 @@
     "203|fabyene de oliveira rousseau pires": "2026-11-07T21:48:15.113Z"
   },
   "checkoutsMonitorados": {
-    "6aea2275780825a0f010cd24": {
-      "unidade": {
-        "codigo": "QQ01J",
-        "unidade": "420 - ON IMARÉS",
-        "checkOutDate": "2026-11-07"
-      },
-      "atualizadoEm": "2026-11-03T18:10:32.805Z",
-      "checkOutDate": "2026-11-07"
-    },
     "6aef4293151ace0d4d7108be": {
       "unidade": {
         "codigo": "QT07J",
