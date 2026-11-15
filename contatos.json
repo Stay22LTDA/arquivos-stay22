@@ -2466,15 +2466,5 @@
     "902|walter de abreu souza carvalho": "2026-11-13T02:27:24.504Z",
     "702|antonia silmara barros": "2026-11-14T12:07:54.738Z"
   },
-  "checkoutsMonitorados": {
-    "6aef4293151ace0d4d7108be": {
-      "unidade": {
-        "codigo": "QT07J",
-        "unidade": "217 - ON PAULISTA",
-        "checkOutDate": "2026-11-11"
-      },
-      "atualizadoEm": "2026-11-12T12:08:14.816Z",
-      "checkOutDate": "2026-11-14"
-    }
-  }
+  "checkoutsMonitorados": {}
 }
