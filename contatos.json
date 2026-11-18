@@ -2488,5 +2488,14 @@
     "702|antonia silmara barros": "2026-11-14T12:07:54.738Z",
     "702|kaiky miguel santos": "2026-11-15T22:19:29.980Z"
   },
-  "checkoutsMonitorados": {}
+  "checkoutsMonitorados": {
+    "6afda8776936cdbd97dad7fe": {
+      "unidade": {
+        "codigo": "RE02J",
+        "unidade": "217 - ON PAULISTA",
+        "checkOutDate": "2026-11-21"
+      },
+      "atualizadoEm": "2026-11-18T13:31:19.580Z"
+    }
+  }
 }
