@@ -2541,6 +2541,14 @@
       },
       "atualizadoEm": "2026-11-18T13:33:03.602Z",
       "checkOutDate": "2026-11-21"
+    },
+    "6aff2fd85cfe234689eea07f": {
+      "unidade": {
+        "codigo": "RF06J",
+        "unidade": "217 - ON PAULISTA",
+        "checkOutDate": "2026-11-22"
+      },
+      "atualizadoEm": "2026-11-19T17:21:23.050Z"
     }
   }
 }
