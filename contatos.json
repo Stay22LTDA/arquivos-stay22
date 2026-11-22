@@ -2655,15 +2655,6 @@
     "905|murilo xavier": "2026-11-21T10:06:58.955Z"
   },
   "checkoutsMonitorados": {
-    "6afda8776936cdbd97dad7fe": {
-      "unidade": {
-        "codigo": "RE02J",
-        "unidade": "217 - ON PAULISTA",
-        "checkOutDate": "2026-11-21"
-      },
-      "atualizadoEm": "2026-11-18T13:33:03.602Z",
-      "checkOutDate": "2026-11-21"
-    },
     "6aff2fd85cfe234689eea07f": {
       "unidade": {
         "codigo": "RF06J",
