@@ -2654,15 +2654,5 @@
     "307|ademir palmares candioto": "2026-11-20T18:50:10.068Z",
     "905|murilo xavier": "2026-11-21T10:06:58.955Z"
   },
-  "checkoutsMonitorados": {
-    "6aff2fd85cfe234689eea07f": {
-      "unidade": {
-        "codigo": "RF06J",
-        "unidade": "217 - ON PAULISTA",
-        "checkOutDate": "2026-11-22"
-      },
-      "atualizadoEm": "2026-11-19T17:33:03.717Z",
-      "checkOutDate": "2026-11-22"
-    }
-  }
+  "checkoutsMonitorados": {}
 }
