@@ -2741,5 +2741,14 @@
     "105|adriana araujo": "2026-11-27T11:06:59.595Z",
     "702|geise rodrigues silva dos santos": "2026-11-27T14:14:01.703Z"
   },
-  "checkoutsMonitorados": {}
+  "checkoutsMonitorados": {
+    "6b09f21c5a0d562bae4c4f26": {
+      "unidade": {
+        "codigo": "RN06J",
+        "unidade": "217 - ON PAULISTA",
+        "checkOutDate": "2026-11-29"
+      },
+      "atualizadoEm": "2026-11-27T21:12:26.928Z"
+    }
+  }
 }
